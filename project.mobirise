@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Woodular",
-    "currentPage": "about.html",
+    "currentPage": "store.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3162,7 +3162,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Center Table with compartment<br>php 8,000",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Table",
@@ -3230,7 +3230,7 @@
                 "active": false
               },
               {
-                "tags": "Closet",
+                "tags": "Table",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3240,10 +3240,10 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Consule Table<br>php 3,500",
-                "active": false
+                "active": true
               },
               {
-                "tags": "Kitchen Cabinet",
+                "tags": "Bed",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -3256,7 +3256,7 @@
                 "active": false
               },
               {
-                "tags": "Bed",
+                "tags": "Kitchen Cabinet",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Woodular",
-    "currentPage": "store.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -743,7 +743,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Shop now from varieties of premade products.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" data-app-placeholder=\"Type Text\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">Shop now</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" data-app-placeholder=\"Type Text\" href=\"store.html\" data-toolbar=\"-mbrBtnMove\">Shop now</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/21731320-1114156162048798-9175021350580617062-n-960x640.jpg",
